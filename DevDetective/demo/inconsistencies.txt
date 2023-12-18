@@ -1,0 +1,11 @@
+Method AC in class A is annotated with @MethodDocumentation, but has no Javadoc comment
+Method AD in class A is not annotated with @MethodDocumentation, but has Javadoc comment
+Class D is not annotated with @ClassDocumentation, but has Javadoc comment
+Method DA in class D is not annotated with @MethodDocumentation, but has Javadoc comment
+Method DC in class D is not annotated with @MethodDocumentation, but has Javadoc comment
+Method DD in class D is not annotated with @MethodDocumentation, but has Javadoc comment
+Class E is annotated with @ClassDocumentation, but has no Javadoc comment
+Method EA in class E is annotated with @MethodDocumentation, but has no Javadoc comment
+Method EB in class E is annotated with @MethodDocumentation, but has no Javadoc comment
+Method EC in class E is annotated with @MethodDocumentation, but has no Javadoc comment
+Method ED in class E is annotated with @MethodDocumentation, but has no Javadoc comment
